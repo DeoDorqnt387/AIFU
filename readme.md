@@ -1,2 +1,2 @@
 ## AIFU
-![](https://raw.githubusercontent.com/DeoDorqnt387/AIFU/main/images/g.ico)
+![](https://github.com/DeoDorqnt387/AIFU/blob/main/images/g.png)
