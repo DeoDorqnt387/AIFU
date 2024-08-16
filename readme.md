@@ -1,2 +1,2 @@
 ## AIFU
-![](https://imgur.com/NObgcav)
+![alt text](https://imgur.com/NObgcav)
