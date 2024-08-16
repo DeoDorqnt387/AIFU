@@ -4,5 +4,6 @@
 </div>
 
 # INSTALLATION
-Firstly Run install.bat to install required dependencies.
-Secondly Run run.bat to run the code
+> Firstly Run install.bat to install required dependencies.
+> 
+> Secondly Run run.bat to run the code
