@@ -1,2 +1,2 @@
-## AIGirlfriend
-![AIGirlfriend](https://imgur.com/NObgcav)
+## AIFU
+![](https://imgur.com/NObgcav)
