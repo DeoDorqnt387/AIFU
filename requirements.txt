@@ -1,0 +1,4 @@
+customtkinter
+Pillow
+python-dotenv
+git+https://github.com/kramcat/CharacterAI
