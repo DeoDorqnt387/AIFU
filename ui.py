@@ -12,7 +12,7 @@ class App(customtkinter.CTk):
     def __init__(self):
         super().__init__()
         self.character_window = None
-        self.title("AIFU")
+        self.title("AIFU V0.01")
         self.geometry("1200x700")
         
         """self.types = Types()"""
@@ -338,7 +338,7 @@ class characterADD(customtkinter.CTkToplevel):
         super().__init__(*args, **kwargs)
         self.chatbot = ChatBot()
         
-        self.title("AIFU CharacterAdd")
+        self.title("AIFU CHARADD V0.01")
         self.geometry("400x300")
 
 
