@@ -12,9 +12,13 @@
 <b>
 <p>
 TTS
+  <br>
 STT
+  <br>
 UI Fixes
+  <br>
 Emotions
+  <br>
 BUG FIXES
 </p>
 </b>
