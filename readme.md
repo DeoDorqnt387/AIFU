@@ -10,7 +10,11 @@
 
 # TO-DO LIST
 > TTS
+> 
 > STT
+> 
 > UI Fixes
+> 
 > Emotions
+> 
 > BUG FIXES
