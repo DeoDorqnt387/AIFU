@@ -7,3 +7,10 @@
 > Firstly Run install.bat to install required dependencies.
 > 
 > Secondly Run run.bat to run the code
+
+# TO-DO LIST
+> TTS
+> STT
+> UI Fixes
+> Emotions
+> BUG FIXES
