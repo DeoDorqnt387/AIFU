@@ -9,12 +9,12 @@
 > Secondly Run run.bat to run the code
 
 # TO-DO LIST
-> TTS
-> 
-> STT
-> 
-> UI Fixes
-> 
-> Emotions
-> 
-> BUG FIXES
+<b>
+<p>
+TTS
+STT
+UI Fixes
+Emotions
+BUG FIXES
+</p>
+</b>
