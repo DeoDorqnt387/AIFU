@@ -4,10 +4,13 @@
 </div>
 
 # INSTALLATION
-> Firstly Run install.bat to install required dependencies.
-> 
-> Secondly Run run.bat to run the code
-
+<p>
+  <b>
+Firstly Run install.bat to install required dependencies.
+<br>
+Secondly Run run.bat to run the code
+</b>
+</p>
 # TO-DO LIST
 <b>
 <p>
